@@ -20,11 +20,11 @@ This is the main entry point for the vault. It links the roadmap, core concepts,
 - [[Subject 0 - Why Are Data Centres Important|Why Data Centres Matter]]
 - [[Subject 1 - Power & Redundancy|Power and Redundancy]]
 - [[Subject 1 - Power & Redundancy|Energy Supply]]
-- [[AI/Phase 1/Subjects/Subject 2 - Cooling Systems|Cooling Systems]]
-- [[AI/Phase 1/Subjects/Subject 3 - Synthesis|Power and Cooling Synthesis]]
-- [[AI/Phase 1/Subjects/Subject 4 - Layout & Airflow|Layout and Airflow]]
-- [[AI/Phase 1/Subjects/Subject 5 - Uptime Tiers (Tier I-IV)|Uptime Tiers]]
-- [[AI/Phase 1/Subjects/Subject 6 - Synthesis (Whole System Thinking)|Whole System Thinking]]
+- [[Subject 2 - Cooling Systems|Cooling Systems]]
+- [[Subject 3 - Synthesis|Power and Cooling Synthesis]]
+- [[Subject 4 - Layout & Airflow|Layout and Airflow]]
+- [[Subject 5 - Uptime Tiers (Tier I-IV)|Uptime Tiers]]
+- [[Subject 6 - Synthesis (Whole System Thinking)|Whole System Thinking]]
 - [[AI/What is run on the CPUs at data centres (software)|What Runs On Data-Centre CPUs]]
 
 ## Reference notes
