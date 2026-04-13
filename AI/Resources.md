@@ -1,12 +1,3 @@
----
-title: AI Infrastructure Resources
-type: reference
-status: active
-tags:
-  - resources
-  - ai-infrastructure
-  - data-centres
----
 
 # AI Infrastructure Resources
 
