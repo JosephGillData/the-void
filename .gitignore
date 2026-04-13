@@ -5,5 +5,4 @@ Thumbs.db
 .obsidian/workspace.json
 
 # Optional local plugin or cache output
-.obsidian/cache/
-.obsidian/workspace-mobile.json
+.obsidian/
